@@ -1,28 +1,31 @@
-🛍️ __E-commerce Store (Flask-based) __                                
+🛍️ __E-commerce Store (Flask-based) __                            
+                                       
 #📌 About the Project            
+                                           
 This is a fully functional E-commerce Store built using Python Flask. It allows users to register, log in, manage their budget, list products for sale, and purchase items from other users. The platform ensures secure transactions and an intuitive shopping experience.              
-
-#🚀 Features                           
+                                 
+#🚀 Features                            
+                                                  
 ✅ User Authentication: Secure registration and login system.                   
 ✅ Market Page: Display available products for sale with details.                         
 ✅ Budget Management: Users can track and manage their spending.                          
 ✅ Buying & Selling: Users can list items for sale and make purchases.                               
 ✅ Session Management: Keeps users logged in securely.                                
 ✅ Flask Backend: Efficient handling of requests and database interactions.                            
-
-#🛠️ Tech Stack                          
+                                      
+#🛠️ Tech Stack                        
+                                           
 Backend: Python, Flask                                 
 Frontend: HTML, CSS, Bootstrap                            
 Database: SQLite                                                         
 Authentication: Flask-Login                                            
-
+                                                      
 #How to run?              
-
+                                                  
 Go to command prompt:               
-
-![image](https://github.com/user-attachments/assets/a3e02b90-c76d-41d9-858f-c317bacfccc0)                        
-
-
+                                           
+![image](https://github.com/user-attachments/assets/cf68a2da-5a71-4f73-b812-e6889a5bee45)                                                                             
+                                                             
 ![image](https://github.com/user-attachments/assets/d9b0c45a-1b82-4a92-8961-a5fbe306bd22)                              
 
 #Output                                                 
