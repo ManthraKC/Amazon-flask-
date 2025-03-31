@@ -1,4 +1,4 @@
-🛍️ **E-commerce Store (Flask-based) **                                
+🛍️ __E-commerce Store (Flask-based) __                                
 #📌 About the Project            
 This is a fully functional E-commerce Store built using Python Flask. It allows users to register, log in, manage their budget, list products for sale, and purchase items from other users. The platform ensures secure transactions and an intuitive shopping experience.              
 
@@ -16,28 +16,38 @@ Frontend: HTML, CSS, Bootstrap
 Database: SQLite                                                         
 Authentication: Flask-Login                                            
 
-#How to run?            
-Go to command prompt:                 
-![image](https://github.com/user-attachments/assets/a3e02b90-c76d-41d9-858f-c317bacfccc0)                         
+#How to run?              
+
+Go to command prompt:               
+
+![image](https://github.com/user-attachments/assets/a3e02b90-c76d-41d9-858f-c317bacfccc0)                        
+
 
 ![image](https://github.com/user-attachments/assets/d9b0c45a-1b82-4a92-8961-a5fbe306bd22)                              
 
-#Output
-#Home Page:                  
-![image](https://github.com/user-attachments/assets/55317795-b8df-4099-a784-d1df21632c1d)                    
+#Output                                                 
 
-#Registration Page:              
+#Home Page:                                                                  
+                                              
+![image](https://github.com/user-attachments/assets/55317795-b8df-4099-a784-d1df21632c1d)                              
+                                               
+#Registration Page:                                                                  
+                                                     
 ![image](https://github.com/user-attachments/assets/78c45562-fdb7-42f5-b2ad-b4d09a218499)                                    
-
-#Market Page after registration:                
+                                                      
+#Market Page after registration:                                                   
+                                                                
 ![image](https://github.com/user-attachments/assets/572fc72a-064a-4791-a4f4-a981370d1e39)                      
-
+                                                              
 #Logout Functionality:                             
-![image](https://github.com/user-attachments/assets/56aa92c2-3dd8-4211-95c9-498faba12350)                
+                                                                            
+![image](https://github.com/user-attachments/assets/56aa92c2-3dd8-4211-95c9-498faba12350)                             
 
 #Login Page:              
-![image](https://github.com/user-attachments/assets/b284273c-775d-4c55-b749-674b19fbf3fa)                        
+                                                           
+![image](https://github.com/user-attachments/assets/b284273c-775d-4c55-b749-674b19fbf3fa)                                
 
+                                      
 #Market Page:                   
 ![image](https://github.com/user-attachments/assets/67aa2b49-1bd1-4c9c-84cf-7a4b8d81e65b)
 
