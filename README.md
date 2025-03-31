@@ -49,7 +49,21 @@ Go to command prompt:
 
                                       
 #Market Page:                   
-![image](https://github.com/user-attachments/assets/67aa2b49-1bd1-4c9c-84cf-7a4b8d81e65b)
+![image](https://github.com/user-attachments/assets/67aa2b49-1bd1-4c9c-84cf-7a4b8d81e65b)                                 
+
+#Purchasing Item:                                      
+
+![image](https://github.com/user-attachments/assets/17382847-0cc4-45a8-a9dc-74f22c581bf0)                                                       
+
+#Selling Item:                                              
+
+![image](https://github.com/user-attachments/assets/2c1f427e-45ba-4067-aaf1-f49ba2b300d9)                                 
+
+![image](https://github.com/user-attachments/assets/4c59a461-d1ac-4257-975e-bde955b53b3b)                                               
+                                                       
+                                                   
+                                                       
+                                                  
 
 
 
