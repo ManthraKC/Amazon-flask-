@@ -1,4 +1,4 @@
-#🛍️ E-commerce Store (Flask-based)                    
+🛍️ **E-commerce Store (Flask-based) **                                
 #📌 About the Project            
 This is a fully functional E-commerce Store built using Python Flask. It allows users to register, log in, manage their budget, list products for sale, and purchase items from other users. The platform ensures secure transactions and an intuitive shopping experience.              
 
